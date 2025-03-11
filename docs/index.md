@@ -26,3 +26,4 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     Et ici on clique sur les `[Commands]`
 
     
+[Accéder au Tutoriel](tutorial.md)
