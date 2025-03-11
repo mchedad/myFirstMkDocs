@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: Mon Site de Documentation
+
+nav:
+  - Home: index.md
+  - Guide: guide.md

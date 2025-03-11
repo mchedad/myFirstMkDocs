@@ -25,4 +25,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
     On regarde ce qu'il se passe # Ce qu'il se passe.
     Et ici on clique sur les `[Commands]`
 
+
+[Accéder au Guide](guide.md)
+
     
