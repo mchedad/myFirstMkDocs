@@ -3,3 +3,4 @@ site_name: My Docs
 nav:
   - Home: index.md
   - Tutorial: tutorial.md  
+  - Guide: guide.md
